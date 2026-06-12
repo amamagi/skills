@@ -1,6 +1,7 @@
 ---
 name: github-actions-pin
-description: Pin GitHub Actions workflow dependencies to immutable commit SHAs for supply chain security, or update existing SHA pins to the latest version. Use this skill whenever the user wants to: pin GitHub Actions to specific SHAs, update pinned action SHAs to newer versions, replace version tags like @v4 or @v2 with commit hashes, audit action versioning in .github/workflows/ files, secure workflow files against supply chain attacks, or do anything related to SHA pinning/updating for GitHub Actions. Trigger on phrases like "pin actions", "pin workflows", "SHA pinning", "pin to SHA", "update action SHAs", "update pinned actions", "secure my workflow", "actions のバージョン固定", "SHAでpin", "アクションをピン留め", "最新SHAに更新", even if the user only mentions a specific file like "build-and-upload.yml を pin して".
+description: >-
+  Pin GitHub Actions workflow dependencies to immutable commit SHAs for supply chain security, or update existing SHA pins to the latest version. Use this skill whenever the user wants to: pin GitHub Actions to specific SHAs, update pinned action SHAs to newer versions, replace version tags like @v4 or @v2 with commit hashes, audit action versioning in .github/workflows/ files, secure workflow files against supply chain attacks, or do anything related to SHA pinning/updating for GitHub Actions. Trigger on phrases like "pin actions", "pin workflows", "SHA pinning", "pin to SHA", "update action SHAs", "update pinned actions", "secure my workflow", "actions のバージョン固定", "SHAでpin", "アクションをピン留め", "最新SHAに更新", even if the user only mentions a specific file like "build-and-upload.yml を pin して".
 ---
 
 ## このスキルでできること
